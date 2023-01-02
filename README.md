@@ -9,6 +9,9 @@ I really enjoy making webpages and its components using programming languages.
 
 I can communicate in English and Hindi .Currently learning german (Guten tag!)
 
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TheMohit2003)](https://git.io/streak-stats)
+
 ## 🛠 Skills
 - Javascript, HTML, CSS
 - Bootstrap
