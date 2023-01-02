@@ -12,6 +12,8 @@ I can communicate in English and Hindi .Currently learning german (Guten tag!)
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TheMohit2003)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMohit2003)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠 Skills
 - Javascript, HTML, CSS
 - Bootstrap
