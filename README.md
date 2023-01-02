@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&weight=900&duration=4003&pause=1000&color=DC1CA4&background=5BFF5900&center=true&vCenter=true&width=435&lines=Hi+!+Welcome+to+Mohit's+git+repo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&weight=900&size=24&duration=5003&pause=2001&color=DC1CA4&background=5BFF5900&center=true&vCenter=true&width=435&lines=Hi+!+Welcome+to+Mohit's+git+repo.)](https://git.io/typing-svg)
 
 # Hi, I'm Mohit! 👋
 
@@ -11,9 +11,9 @@ I really enjoy making webpages and its components using programming languages.
 I can communicate in English and Hindi .Currently learning german (Guten tag!)
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TheMohit2003&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheMohit2003&theme=monokai)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMohit2003&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMohit2003&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Skills
 - Javascript, HTML, CSS
