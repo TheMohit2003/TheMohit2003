@@ -8,7 +8,7 @@ I'm a web developer .
 
 I really enjoy making webpages and its components using programming languages.
 
-I can communicate in English and Hindi .Currently learning german (Guten tag!)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,github,express,figma,jquery,nodejs)](https://skillicons.dev)
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=TheMohit2003&theme=monokai)](https://git.io/streak-stats)
