@@ -1,4 +1,6 @@
+<div align=center>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&weight=900&size=24&duration=5003&pause=2001&color=DC1CA4&background=5BFF5900&center=true&vCenter=true&width=435&lines=Hi+!+Welcome+to+Mohit's+git+repo.)](https://git.io/typing-svg)
+ </div>
 
 # Hi, I'm Mohit! 👋
 
