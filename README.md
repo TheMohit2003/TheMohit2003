@@ -3,11 +3,7 @@
  </div> -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheMohit2003.TheMohit2003">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋,+Nice,+to,+have,+here...;!&center=true&size=30">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serif&weight=500&size=25&duration=6000&pause=1000&color=3139F7&center=true&width=435&lines=Hi+!+welcome+to+my+repo....)](https://git.io/typing-svg)
 
 # Hi, I'm Mohit! 👋
 
