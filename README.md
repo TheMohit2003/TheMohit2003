@@ -1,6 +1,13 @@
-<div align=center>
+<!-- <div align=center>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&weight=900&size=24&duration=5003&pause=2001&color=DC1CA4&background=5BFF5900&center=true&vCenter=true&width=435&lines=Hi+!+Welcome+to+Mohit's+git+repo.)](https://git.io/typing-svg)
- </div>
+ </div> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheMohit2003.TheMohit2003">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohit+Pardeshi....;Welcome+to+my+repo!&center=true&size=30">
+  </a>
+</h1>
 
 # Hi, I'm Mohit! 👋
 
