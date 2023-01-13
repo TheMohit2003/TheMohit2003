@@ -17,8 +17,8 @@ I really enjoy making webpages and its components using programming languages.
 [![GitHub Streak](https://streak-stats.demolab.com?user=TheMohit2003&theme=monokai)](https://git.io/streak-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMohit2003&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMOhit2003&show_icons=true&theme=radical)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMOhit2003&show_icons=true&theme=radical)
+ -->
 ## 🛠 Skills
 - Javascript, HTML, CSS
 - Bootstrap
