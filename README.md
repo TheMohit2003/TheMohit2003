@@ -7,9 +7,10 @@
 
 
 ## 🚀 About Me
-I'm a web developer .
+<!-- I'm a web developer .
 
-I really enjoy making webpages and its components using programming languages.
+I really enjoy making webpages and its components using programming languages. -->
+Welcome to my GitHub profile! I am a web developer with a passion for creating clean, efficient and user-friendly websites. Skilled in using Bootstrap and React, I am always looking to improve my skills and learn new technologies. From coding and debugging to designing and testing, I love every aspect of the development process. On this profile, you will find a variety of projects that showcase my abilities as a developer.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,github,express,figma,jquery,nodejs)](https://skillicons.dev)
 
