@@ -22,7 +22,10 @@ Welcome to my GitHub profile! I am a web developer with a passion for creating c
  -->
 ## 🛠 Skills
 - Javascript, HTML, CSS
+- NodeJs
 - Bootstrap
+- ReactJS
+- Figma
 - Canva
 - Git verion control
 - GitHub
