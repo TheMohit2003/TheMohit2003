@@ -1,3 +1,4 @@
+<div align="center">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheMohit2003.TheMohit2003">
 
@@ -53,3 +54,5 @@ Welcome to my GitHub profile! I am a web developer with a passion for creating c
 
 ⚡️ Fun fact: I used [readme editor](https://readme.so/) to make this profile.
 
+
+</div>
