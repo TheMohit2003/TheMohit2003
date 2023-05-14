@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheMohit2003.TheMohit2003">
 
