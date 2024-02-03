@@ -33,13 +33,6 @@ Welcome to my GitHub profile! I am a web developer with a passion for creating c
 - GitHub
 
 
-## 🔗 Links
-
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/mohit-pardeshi-5792aa229/))
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohitpa29344380/likes)
-
-
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on making [books](https://github.com/TheMohit2003/Books-Ecommerce) ecommerce [website](https://themohit2003.github.io/Books-Ecommerce/).
@@ -48,7 +41,6 @@ Welcome to my GitHub profile! I am a web developer with a passion for creating c
 
 👯‍♀️ I'm looking to collaborate on websites projects
 
-📫 You can reach me through my [linkedin](https://www.linkedin.com/in/mohit-pardeshi-5792aa229/) account
 
 😄 He/Him/His
 
