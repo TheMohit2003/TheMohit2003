@@ -16,8 +16,10 @@ Welcome to my GitHub profile! I am a web developer with a passion for creating c
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,github,express,figma,jquery,nodejs)](https://skillicons.dev)
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheMohit2003&theme=monokai)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMohit2003&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![TheMohit2003's GitHub | Stats](https://stats.quine.sh/TheMohit2003/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TheMohit2003)
+[![TheMohit2003's GitHub | Dependencies](https://stats.quine.sh/TheMohit2003/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=TheMohit2003)
+[![TheMohit2003's GitHub | Languages Over Time](https://stats.quine.sh/TheMohit2003/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TheMohit2003)
+
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMohit2003&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMOhit2003&show_icons=true&theme=radical)
